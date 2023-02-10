@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food-Recipe</title>
+</head>
+<body>
+  <header>
+  <h1>Sticky Chicken Thighs with Ginger and Garlic</h1>
+  <img src="chicken.jpg" alt="chicken" width="200" height="200">
+   </header>
+<main>
+  <article>
+  <h2>About dish:</h2>
+  <p>"The iron skillet loves recipes in which the marinade and sauce cook and caramelize in the pan. When this simple sauce of honey, soy sauce, garlic, and ginger simmers down, it gets syrupy and sticky. Chicken thighs are basted with these sticky pan juices, turning the chicken a gorgeous mahogany color. What’s left of the sauce can be served over the chicken and rice and is even more delicious the next day." </p>
+  </article>
+  
+  <h2>The Ingredients and Amounts:</h2>
+  <ul>
+    <li>2 pounds boneless, skinless chicken thighs.</li>
+    <li>2 pounds boneless, skinless chicken thighs.</li>
+    <li>1⁄2 cup honey.</li>
+    <li>1⁄2 cup reduced-sodium soy sauce.</li>
+    <li>2 cloves garlic, peeled and minced.</li>
+    <li>3 tablespoons grated fresh ginger.</li>
+    <li>Steamed white rice, for serving.</li>
+    <li>Green onion slivers, for garnish.</li>
+  </ul>
+
+ 
+  <section>
+  <h3>The Preparation Instruction:</h3>
+  <p>1. Trim the chicken thighs of excess fat, and put them in a medium glass bowl or zipper-lock bag.</p>
+
+  <p>2. In a small bowl, whisk together the honey and soy sauce. Fold in the garlic and ginger. Pour the marinade mixture over the chicken thighs and turn to coat. Cover the bowl or seal the bag and let the chicken marinate at room temperature for 20 minutes or in the fridge for up to 4 hours.</p>
+
+  <p>3. Preheat the oven to 375 degrees F.</p>
+
+  <p>4. Pour the chicken and marinade into a 12-inch skillet. Tuck the edges of the chicken under to form rounded thighs that dome in the center. Place the skillet in the oven and bake for 20 minutes. Remove the skillet and turn the chicken, basting with the pan juices. Return to the oven for 20 minutes.
+  </p>
+  
+  <p>5. Remove the skillet from the oven and place it over medium-low heat. Let the chicken and marinade simmer, turning the chicken every 2 or 3 minutes, until the marinade thickens, 15 to 20 minutes. The chicken will have turned a mahogany color, and the juices will be syrupy and sticky. Serve with rice, and garnish with slivers of green onion.
+  </p>
+
+  <p>
+NOTE: Spray a liquid measuring cup with vegetable oil before measuring honey. The oil keeps the honey from sticking to the cup.
+</p>
+ 
+  </section>
+  </main>
+</body>
+</html>
